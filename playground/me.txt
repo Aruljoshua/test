@@ -1,5 +1,0 @@
-{{#user}
-Name: Arul Joshua A
-Skills: HTML, CSS, JS
-Email: aruljoshua@gmail.com
-{{/user}}
